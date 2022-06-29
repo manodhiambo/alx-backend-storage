@@ -1,6 +1,14 @@
 <center><h1>0x00. MySQL advanced</h1></center>
 <b>Back-end</b>  <b>SQL</b>  <b>MySQL</b>
 
+<p>
+<b>Concepts</b>
+For this project, we expect you to look at this concept:
+<ul>
+<li><a href="https://alx-intranet.hbtn.io/concepts/555">Advanced SQ</a>L</li>
+</ul>
+</p>
+
 <h2>Learning Objectives</h2>
 
 <p>
